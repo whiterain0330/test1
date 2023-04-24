@@ -1,0 +1,1 @@
+document.write("  早安，你好 ")
